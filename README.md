@@ -81,8 +81,9 @@ Top spenders include Christy variants and others with individual revenues exceed
 - Pie/bar charts for gender, age, categories, regions.
 - Top products/customers tables.
 - Geographic heatmaps or bar charts for countries.
+  ![sales dashboard](https://github.com/Dumoteyim/Customer-Sales-Performances/blob/main/SalesDashboard1.jpeg)
 
-*Note: In a full GitHub repo, embed images from dashboards or use tools like Excel-to-image exports.*
+
 
 ## Findings
 1. **Strong seasonal patterns** with opportunities to boost off-peak months (e.g., July).
