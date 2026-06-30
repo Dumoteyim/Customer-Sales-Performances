@@ -30,6 +30,8 @@ Key aggregates:
 
 ## Analysis
 
+![Analysis](https://github.com/Dumoteyim/Customer-Sales-Performances/blob/main/Analysis1.jpeg)
+
 ### Customer Purchase Trend (Monthly Revenue)
 Revenue shows seasonal variation with peaks in January, March, November, and lower performance in July.
 
