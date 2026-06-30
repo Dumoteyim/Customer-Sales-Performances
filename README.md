@@ -81,6 +81,8 @@ Top spenders include Christy variants and others with individual revenues exceed
 - Pie/bar charts for gender, age, categories, regions.
 - Top products/customers tables.
 - Geographic heatmaps or bar charts for countries.
+  ![Executive Dashboard](https://github.com/Dumoteyim/Customer-Sales-Performances/blob/main/ExecutiveDashboard1.jpeg)
+  
   ![sales dashboard](https://github.com/Dumoteyim/Customer-Sales-Performances/blob/main/SalesDashboard1.jpeg)
 
 
